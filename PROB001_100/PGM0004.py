@@ -1,5 +1,4 @@
 #https://projecteuler.net/problem=4
-NUMBER = 600851475143
 
 def is_palindrome(number):
     number = str(number)
