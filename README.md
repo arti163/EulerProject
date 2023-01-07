@@ -1,2 +1,2 @@
 # EulerProject
-Repo with Project Euler problem solutions. Everything in Python
+Repo with Project Euler problems solution. Everything in Python
